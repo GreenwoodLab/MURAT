@@ -1,4 +1,5 @@
 # MURAT: MUltivariate Rare-variant Association Test
+[![Build Status](https://travis-ci.org/GreenwoodLab/MURAT.svg?branch=master)](https://travis-ci.org/GreenwoodLab/MURAT)
 
 An `R` package to conduct rare-variant association tests for multiple continuous traits
 
