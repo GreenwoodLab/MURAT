@@ -9,4 +9,4 @@ Description: To conduct rare-variant association test for multiple continuous tr
 Imports: CompQuadForm, nlme, distr
 License: GPL-2
 NeedsCompilation: no
-Packaged: 2015-12-16 20:28:57 UTC; xianming
+Packaged: 2016-01-23 01:48:35 UTC; xianming
